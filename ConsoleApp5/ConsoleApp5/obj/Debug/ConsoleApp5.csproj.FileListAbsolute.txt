@@ -1,0 +1,10 @@
+C:\dotnet\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+C:\dotnet\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\dotnet\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+C:\dotnet\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.AssemblyReference.cache
+C:\dotnet\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\ConsoleApp5\ConsoleApp5\obj\Debug\CarRentalApp.CarRentalForm.resources
+C:\dotnet\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.GenerateResource.cache
+C:\dotnet\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\dotnet\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\dotnet\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
